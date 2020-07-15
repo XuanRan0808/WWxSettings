@@ -1,0 +1,2 @@
+rootProject.name='WxSettings'
+include ':app'
